@@ -1,0 +1,42 @@
+DATA SOURCES
+
+STRING Protein Interaction Database for Humans
+9606.protein.links.v10.5.txt
+522.22 MB
+https://string-db.org/cgi/download.pl?sessionId=bnTpTKhvagga&species_text=choose+an+organism
+
+STRING database schema
+database.schema.v10.5.pdf
+
+TCGA
+https://portal.gdc.cancer.gov/legacy-archive/search/f
+nationwidechildrens.org_clinical_patient_brca.txt
+1.7 MB
+expressiondata.txt
+116.8 MB
+
+DRUGBANK
+structures.sdf
+13.7 MB
+https://www.drugbank.ca/releases/latest#open-data
+DrugBank structures, names, and synonyms to permit easy linking and integration into any type of project. 
+
+full database.xml
+https://www.drugbank.ca/releases/latest
+795.0 MB
+DrugBank identifiers, names, and synonyms to permit easy linking and integration into any type of project. 
+
+
+DRUG TARGET COMMONS
+DtcDrugTargetInteractions.txt
+2.2GB
+https://drugtargetcommons.fimm.fi/
+a crowd-sourcing platform to improve the consensus and use of drug-target interactions.
+
+DRUG TARGET COMMONS ENTITY RELATIONSHIP DIAGRAM
+DTC_ER_diagram.png 
+
+
+PDB API
+https://www.ebi.ac.uk/pdbe/api
+
